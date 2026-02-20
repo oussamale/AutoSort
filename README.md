@@ -1,4 +1,4 @@
-# Smart File Organizer (AutoSort v2)
+# Smart File Organizer (AutoSort)
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
@@ -116,5 +116,6 @@ Here is an example snippet of how easy it is to tweak:
 ---
 
 ## License
+
 
 This project is open source and available under the [MIT License](LICENSE).
