@@ -1,0 +1,85 @@
+{
+    "watch_directory": "",
+    "handle_duplicates": true,
+    "categories": {
+        "Images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".webp",
+            ".tiff",
+            ".svg",
+            ".ico"
+        ],
+        "Documents": {
+            "Word": [
+                ".docx",
+                ".doc"
+            ],
+            "PowerPoint": [
+                ".pptx",
+                ".ppt"
+            ],
+            "PDF": [
+                ".pdf"
+            ],
+            "Text": [
+                ".txt",
+                ".odt",
+                ".rtf"
+            ],
+            "Excel": [
+                ".xls",
+                ".xlsx",
+                ".csv"
+            ]
+        },
+        "Archives": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz"
+        ],
+        "Videos": [
+            ".mp4",
+            ".mov",
+            ".avi",
+            ".mkv",
+            ".webm",
+            ".flv"
+        ],
+        "Audio": [
+            ".mp3",
+            ".wav",
+            ".ogg",
+            ".flac",
+            ".aac"
+        ],
+        "Setup": [
+            ".exe",
+            ".msi",
+            ".dmg"
+        ],
+        "Code": [
+            ".py",
+            ".html",
+            ".css",
+            ".js",
+            ".php",
+            ".json",
+            ".java",
+            ".cpp",
+            ".c",
+            ".php"
+        ],
+        "Temp": [
+            ".tmp",
+            ".crdownload",
+            ".part",
+            ".download",
+            "cool"
+        ]
+    }
+}
