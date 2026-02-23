@@ -4,6 +4,12 @@
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
+---
+
+**Official Website:** [Visit AutoSort Online](https://oussamale.github.io/AutoSort-Site/)
+
+---
+
 **Smart File Organizer** is a background file management utility featuring a modern graphical user interface (GUI). It runs transparently in the background, watching a designated folder (e.g., Download directory), and dynamically categorizes moving or incoming files into neatly organized subdirectories.
 
 With an aesthetic Light Creamy Theme, real-time activity logging, and duplicate resolution logic, it turns digital clutter into perfect organization.
@@ -119,3 +125,4 @@ Here is an example snippet of how easy it is to tweak:
 
 
 This project is open source and available under the [MIT License](LICENSE).
+
