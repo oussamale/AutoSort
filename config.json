@@ -78,8 +78,8 @@
             ".tmp",
             ".crdownload",
             ".part",
-            ".download",
-            "cool"
+            ".download"
         ]
     }
+
 }
